@@ -1,1 +1,1 @@
-https://SEU-PROJETO.pages.dev/oauth/callback/google
+https://https://cloud-flare-pages-login.pages.dev/oauth/callback/google
