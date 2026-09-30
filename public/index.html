@@ -16,9 +16,12 @@
         <a class="botao" href="/oauth/login/github">Entrar com GitHub</a>
       </div>
 
-      <form id="area-logout" method="post" action="/oauth/logout" hidden>
-        <button class="botao" type="submit">Sair</button>
-      </form>
+      <div id="area-logout" hidden>
+        <a class="botao" href="/examples/dashboard.html">Abrir o dashboard</a>
+        <form method="post" action="/oauth/logout">
+          <button class="botao" type="submit">Sair</button>
+        </form>
+      </div>
     </main>
     <script src="/app.js"></script>
   </body>
