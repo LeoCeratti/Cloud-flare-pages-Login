@@ -19,4 +19,4 @@
 - [x] a dupla consegue explicar por que os arquivos estáticos permanecem públicos
 - [x] as sessões administrativas foram encerradas no computador compartilhado
 
-Assinado por: Leonardo Ceratti dos Santos e 
+Assinado por: Leonardo Ceratti dos Santos e Ketlyn Ribeiro De Simas
