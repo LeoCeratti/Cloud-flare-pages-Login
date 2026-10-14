@@ -1,1 +1,1 @@
-
+   CREATE TABL x (id INTEGER);
