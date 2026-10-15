@@ -3,3 +3,4 @@ export async function onRequestGet({ request, env }) {
   const r = await env.DB.prepare("SELECT * FROM sessions WHERE email = ?").bind(nome).all();
   return Response.json(r.results);
 }
+
